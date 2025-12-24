@@ -1,0 +1,64 @@
+<div class="container">
+  <!-- Header -->
+  <div class="text-center mb-4">
+    <h2 class="fw-bold mb-1">Review Session</h2>
+    <p class="text-muted mb-0">
+      Tap the card to flip and test your memory
+    </p>
+  </div>
+
+  <!-- Review Card -->
+  <div *ngIf="words[index]" class="d-flex justify-content-center">
+    <div
+      class="card shadow-lg border-0 text-center p-4"
+      style="max-width: 420px; cursor: pointer"
+      (click)="flipped = !flipped">
+
+      <!-- Front -->
+      <div *ngIf="!flipped">
+        <h3 class="fw-bold mb-2">
+          {{ words[index].term }}
+        </h3>
+
+        <span
+          *ngIf="words[index].partOfSpeech"
+          class="badge bg-secondary">
+          {{ words[index].partOfSpeech }}
+        </span>
+      </div>
+
+      <!-- Back -->
+      <div *ngIf="flipped">
+        <p class="fs-5 mb-2">
+          {{ words[index].definition }}
+        </p>
+
+        <p
+          *ngIf="words[index].exampleSentence"
+          class="fst-italic text-muted">
+          “{{ words[index].exampleSentence }}”
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Actions -->
+  <div *ngIf="words[index]" class="d-flex justify-content-center gap-3 mt-4">
+    <button
+      class="btn btn-success fw-semibold px-4"
+      (click)="submit(true)">
+      ✔ Remembered
+    </button>
+
+    <button
+      class="btn btn-outline-danger fw-semibold px-4"
+      (click)="submit(false)">
+      ✖ Forgot
+    </button>
+  </div>
+
+  <!-- Empty State -->
+  <div *ngIf="!words[index]" class="alert alert-info text-center mt-4">
+    🎉 No more words to review right now!
+  </div>
+</div>

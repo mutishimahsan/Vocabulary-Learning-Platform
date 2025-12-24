@@ -1,0 +1,75 @@
+<div class="card shadow-sm border-0 mb-4">
+  <div class="card-body">
+    <h5 class="fw-bold mb-3">➕ Add New Word</h5>
+
+    <form [formGroup]="wordForm" (ngSubmit)="createWord()">
+      <div class="row g-3">
+        <!-- Term -->
+        <div class="col-md-6">
+          <label class="form-label">Term *</label>
+          <input
+            class="form-control"
+            formControlName="term"
+            placeholder="e.g. Ambiguous"
+          />
+        </div>
+
+        <!-- Part of Speech -->
+        <div class="col-md-6">
+          <label class="form-label">Part of Speech</label>
+          <input
+            class="form-control"
+            formControlName="partOfSpeech"
+            placeholder="e.g. Noun, Verb"
+          />
+        </div>
+
+        <!-- Definition -->
+        <div class="col-12">
+          <label class="form-label">Definition *</label>
+          <input
+            class="form-control"
+            formControlName="definition"
+            placeholder="Meaning of the word"
+          />
+        </div>
+
+        <!-- Example Sentence -->
+        <div class="col-12">
+          <label class="form-label">Example Sentence</label>
+          <input
+            class="form-control"
+            formControlName="exampleSentence"
+            placeholder="Use the word in a sentence"
+          />
+        </div>
+
+        <!-- Pronunciation -->
+        <div class="col-12">
+          <label class="form-label">Pronunciation URL</label>
+          <input
+            class="form-control"
+            formControlName="pronunciationUrl"
+            placeholder="https://..."
+          />
+        </div>
+
+        <!-- Actions -->
+        <div class="col-12 d-flex gap-2">
+          <button
+            type="submit"
+            class="btn btn-success fw-semibold"
+            [disabled]="submitting || wordForm.invalid">
+            {{ submitting ? 'Adding...' : 'Add Word' }}
+          </button>
+
+          <button
+            type="reset"
+            class="btn btn-outline-secondary">
+            Clear
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

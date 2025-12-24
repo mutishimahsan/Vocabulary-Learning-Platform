@@ -1,0 +1,55 @@
+<div class="container">
+  <!-- Header -->
+  <div class="mb-4">
+    <h2 class="fw-bold mb-1">Words in Deck</h2>
+    <p class="text-muted mb-0">
+      Manage and review words in this deck
+    </p>
+  </div>
+
+  <!-- Add Word Form -->
+  <app-word-form
+    [deckId]="deckId"
+    (wordCreated)="words.push($event)">
+  </app-word-form>
+
+  <!-- Empty State -->
+  <div *ngIf="words.length === 0" class="alert alert-info">
+    📘 No words yet. Add your first word above.
+  </div>
+
+  <!-- Words List -->
+  <div class="row g-3" *ngIf="words.length > 0">
+    <div class="col-md-6 col-lg-4" *ngFor="let word of words">
+      <div class="card shadow-sm border-0 h-100">
+        <div class="card-body">
+          <h5 class="fw-bold mb-1">{{ word.term }}</h5>
+
+          <small
+            *ngIf="word.partOfSpeech"
+            class="text-muted">
+            {{ word.partOfSpeech }}
+          </small>
+
+          <p class="mt-2 mb-2">
+            {{ word.definition }}
+          </p>
+
+          <p
+            *ngIf="word.exampleSentence"
+            class="text-muted fst-italic small">
+            “{{ word.exampleSentence }}”
+          </p>
+
+          <a
+            *ngIf="word.pronunciationUrl"
+            [href]="word.pronunciationUrl"
+            target="_blank"
+            class="btn btn-sm btn-outline-primary mt-2">
+            🔊 Pronunciation
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

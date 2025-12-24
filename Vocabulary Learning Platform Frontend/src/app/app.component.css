@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 24px;
+  background: #1976d2;
+  color: #fff;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-links a,
+.nav-links button {
+  margin-left: 14px;
+  color: #fff;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.logout {
+  color: #ffeb3b;
+}
+
+.container {
+  padding: 20px;
+}
+
+/* 🌙 Dark mode */
+.dark-mode {
+  background: #121212;
+  color: #fff;
+}
+
+.dark-mode .navbar {
+  background: #1e1e1e;
+}

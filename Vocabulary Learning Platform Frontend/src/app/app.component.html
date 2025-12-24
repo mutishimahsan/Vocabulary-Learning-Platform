@@ -1,0 +1,72 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm px-4">
+  <a class="navbar-brand fw-bold d-flex align-items-center gap-2" routerLink="/">
+    📘 <span>VocabMaster</span>
+  </a>
+
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-bs-toggle="collapse"
+    data-bs-target="#navbarNav">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <!-- LEFT: Navigation links -->
+    <ul class="navbar-nav" *ngIf="authService.isLoggedIn()">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/dashboard" routerLinkActive="active">Dashboard</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/decks" routerLinkActive="active">Decks</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/review" routerLinkActive="active">Review</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/analytics" routerLinkActive="active">Analytics</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/leaderboard" routerLinkActive="active">Leaderboard</a>
+      </li>
+    </ul>
+
+    <!-- RIGHT: Theme + Auth buttons -->
+    <div class="ms-auto d-flex align-items-center gap-2">
+      <!-- Theme toggle -->
+      <button
+        class="btn btn-outline-light btn-sm rounded-circle"
+        title="Toggle theme"
+        (click)="toggleTheme()">
+        🌓
+      </button>
+
+      <!-- Logged in -->
+      <button
+        *ngIf="authService.isLoggedIn()"
+        class="btn btn-warning btn-sm fw-semibold"
+        (click)="logout()">
+        Logout
+      </button>
+
+      <!-- Guest -->
+      <a
+        *ngIf="!authService.isLoggedIn()"
+        class="btn btn-light btn-sm fw-semibold"
+        routerLink="/login">
+        Login
+      </a>
+
+      <a
+        *ngIf="!authService.isLoggedIn()"
+        class="btn btn-outline-light btn-sm fw-semibold"
+        routerLink="/register">
+        Register
+      </a>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-4">
+  <router-outlet></router-outlet>
+</div>
