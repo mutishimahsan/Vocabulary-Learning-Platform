@@ -1,0 +1,273 @@
+[
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Application.DTO.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Application.DTO.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "DeleteDeck",
+    "RelativePath": "api/Deck/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "CreateDeck",
+    "RelativePath": "api/Deck/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Application.DTO.DeckDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "DebugUserInfo",
+    "RelativePath": "api/Deck/debug-user-info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "GetMyDecks",
+    "RelativePath": "api/Deck/get-deck",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "GetDeckById",
+    "RelativePath": "api/Deck/get-deck-by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "TestAuth",
+    "RelativePath": "api/Deck/test-auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.DeckController",
+    "Method": "TestHeaders",
+    "RelativePath": "api/Deck/test-headers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.LeaderboardController",
+    "Method": "Get",
+    "RelativePath": "api/Leaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.ReviewController",
+    "Method": "SubmitReview",
+    "RelativePath": "api/Review/{wordId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "wordId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Vocabulary_Learning_Platform_Backend.Controllers.ReviewRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.ReviewController",
+    "Method": "GetLeaderboard",
+    "RelativePath": "api/Review/leaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.ReviewController",
+    "Method": "GetProgress",
+    "RelativePath": "api/Review/progress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.ReviewController",
+    "Method": "GetTodayReviews",
+    "RelativePath": "api/Review/today",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.WordController",
+    "Method": "AddWord",
+    "RelativePath": "api/Word/{deckId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deckId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Application.DTO.WordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.WordController",
+    "Method": "GetWordById",
+    "RelativePath": "api/Word/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.WordController",
+    "Method": "UpdateWord",
+    "RelativePath": "api/Word/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Application.DTO.WordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.WordController",
+    "Method": "DeleteWord",
+    "RelativePath": "api/Word/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vocabulary_Learning_Platform_Backend.Controllers.WordController",
+    "Method": "GetWordsByDeck",
+    "RelativePath": "api/Word/deck/{deckId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deckId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AR1WZOmVokc=",
+  "success": true,
+  "projectFilePath": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Prodesk 600\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

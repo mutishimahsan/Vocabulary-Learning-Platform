@@ -1,0 +1,12 @@
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\bin\Debug\net9.0\Domain.deps.json
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\bin\Debug\net9.0\Domain.dll
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\bin\Debug\net9.0\Domain.pdb
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.dll
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\refint\Domain.dll
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\Domain.pdb
+H:\Website Work\Angular\Angular One\Vocabulary Learning Platform\Vocabulary Learning Platform Backend\Domain\obj\Debug\net9.0\ref\Domain.dll

@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\vocabulary learning platform backend\\controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|solutionrelative:vocabulary learning platform backend\\controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\vocabulary learning platform backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|solutionrelative:vocabulary learning platform backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\vocabulary learning platform backend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|solutionrelative:vocabulary learning platform backend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\vocabulary learning platform backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|solutionrelative:vocabulary learning platform backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\vocabulary learning platform backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDFE414-1F93-498C-90A2-6449AAC67371}|Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend.csproj|solutionrelative:vocabulary learning platform backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\application\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|solutionrelative:application\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|solutionrelative:application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\infrastructure\\repositories\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\application\\interfaces\\iwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\application\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1389FF-8E75-4E8B-A95E-4BE68F9E85BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|h:\\website work\\angular\\angular one\\vocabulary learning platform\\vocabulary learning platform backend\\application\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F4488-3177-4122-A214-6D71C54DDA05}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeckController.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Controllers\\DeckController.cs",
+              "RelativeDocumentMoniker": "Vocabulary Learning Platform Backend\\Controllers\\DeckController.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Controllers\\DeckController.cs",
+              "RelativeToolTip": "Vocabulary Learning Platform Backend\\Controllers\\DeckController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:30:20.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Vocabulary Learning Platform Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Vocabulary Learning Platform Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:30:18.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwBYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:28:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Vocabulary Learning Platform Backend\\Program.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Program.cs",
+              "RelativeToolTip": "Vocabulary Learning Platform Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:27:41.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Vocabulary Learning Platform Backend\\appsettings.json",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\appsettings.json",
+              "RelativeToolTip": "Vocabulary Learning Platform Backend\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T19:27:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\UserLoginDto.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "Application\\DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:25:57.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:25:12.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordRepository.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Repositories\\WordRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\WordRepository.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Repositories\\WordRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\WordRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:38:22.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWordRepository.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IWordRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IWordRepository.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IWordRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IWordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:38:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:34:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Vocabulary Learning Platform Backend\\Controllers\\ReviewController.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Vocabulary Learning Platform Backend\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Vocabulary Learning Platform Backend\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:26:53.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Infrastructure\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:26:51.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:26:45.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ReviewService.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Application\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:25:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IReviewService.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:26:40.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "H:\\Website Work\\Angular\\Angular One\\Vocabulary Learning Platform\\Vocabulary Learning Platform Backend\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:34:09.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
